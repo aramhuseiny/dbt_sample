@@ -1,0 +1,17 @@
+version: 2
+
+sources:
+  - name: parnian
+    database: Rahkaran
+    schema: public
+    tables:
+      - name: customer
+      - name: part
+      - name: party
+      - name: broker
+      - name: customeraddress
+      - name: product
+      - name: route
+      - name: salesoffice
+      - name: routestep
+      - name: brokerroute
