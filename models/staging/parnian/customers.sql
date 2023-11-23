@@ -11,3 +11,6 @@ With
 
 select *
 from customers
+
+
+
